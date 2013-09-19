@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Think scaffolding on steroids with lots of bootstrappy goodness sprinkled in.
+UpStarter is a CFWheels Plugin that creates Models, Views and Controllers based on your Database. Think scaffolding on steroids with lots of bootstrappy goodness sprinkled in.
 
 ## Installation
 

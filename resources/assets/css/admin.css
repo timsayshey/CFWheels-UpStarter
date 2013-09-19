@@ -1,0 +1,17 @@
+#addBtn {
+	margin-bottom:10px;	
+}
+td {
+	height:40px;	
+}
+table {
+	table-layout:fixed;
+	overflow:hidden; 
+	width:0px;
+}
+table td {
+	verflow:hidden; 
+}
+td.align-right {
+	text-align:right;	
+}
